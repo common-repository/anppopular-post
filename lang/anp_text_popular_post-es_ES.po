@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: anppopular-post v1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-09-11 14:47:45+0000\n"
+"Last-Translator: admin <antoca_1345040440_per@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: anp_popular_post.php:49
+#@ anp_text_popular_post
+msgid "Displays a list of most commented post"
+msgstr "Muestra un listado de los post más comentados"
+
+#: anp_popular_post.php:170
+#@ anp_text_popular_post
+msgid "Title:"
+msgstr "Título:"
+
+#: anp_popular_post.php:174
+#@ anp_text_popular_post
+msgid "Number of post to show:"
+msgstr "Número de post a mostrar:"
+
+#: anp_popular_post.php:182
+#@ anp_text_popular_post
+msgid "Color Palette:"
+msgstr "Paleta de colores:"
+
+#: anp_popular_post.php:190
+#@ anp_text_popular_post
+msgid "Normal"
+msgstr "Normal"
+
+#: anp_popular_post.php:194
+#@ anp_text_popular_post
+msgid "Blue"
+msgstr "Azul"
+
+#: anp_popular_post.php:198
+#@ anp_text_popular_post
+msgid "Green"
+msgstr "Verde"
+
+#: anp_popular_post.php:202
+#@ anp_text_popular_post
+msgid "Red"
+msgstr "Rojo"
+
+#: anp_popular_post.php:99
+#@ anp_text_popular_post
+msgid "Developed by <a href=\"http://www.anpstudio.com\" rel=\"nofollow\">anpstudio.com</a>"
+msgstr "Desarrollado por <a href=\"http://www.anpstudio.com\" rel=\"nofollow\">anpstudio.com</a>"
+
+#: anp_popular_post.php:213
+#@ anp_text_popular_post
+msgid "Credit the author show"
+msgstr "Mostrar link con créditos del autor plugin"
+
+#: anp_popular_post.php:219
+#@ anp_text_popular_post
+msgid "Background color number of comments"
+msgstr "Color del fondo del número de comentarios"
+
+#: anp_popular_post.php:223
+#@ anp_text_popular_post
+msgid "Text color of the number of comments"
+msgstr "Color del texto del número de comentarios"
+
+#: anp_popular_post.php:227
+#@ anp_text_popular_post
+msgid "Text color of the post"
+msgstr "Color texto del título de los post"
+
